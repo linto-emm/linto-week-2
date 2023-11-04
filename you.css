@@ -1,0 +1,54 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+   
+}
+.header{
+    height: 100vh;
+}
+
+.navbar-brand img{
+width: 30px;
+}
+.fa-navicon{
+    padding: 20px;
+
+    color: white;
+}
+.navicon {
+    border: none;
+}
+.srch input{
+    background-color: black  !important;
+    color: white;
+    border-radius: 50px;
+
+    border:1px solid black;
+}
+.srch input::placeholder {
+    color: white;
+    opacity: 0.6;
+  }
+#basic-addon2{
+    color:white;
+    background-color: black;
+    border:none;
+}
+  .srchicon svg {
+    fill: currentColor; 
+    opacity: 0.6;
+}
+.srch button{
+    border-radius: 500px;
+}
+.mic button{
+    border-radius: 50px;
+    background-color: black;
+    border: none;
+}
+.mic svg{
+color: white;
+fill: currentColor;
+
+}
